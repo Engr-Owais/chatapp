@@ -1,11 +1,6 @@
 🔥 Chat App in Flutter🔥
 
 
-<img src="https://github.com/user-attachments/assets/da30aa6f-d424-4157-b952-ab179cbaed16">
-
-
-Welcome to the repository for the **Fully Functional Chat App in Flutter** tutorial! In this repository, you'll find all the code to build an advanced, real-time chat application using Flutter, Firebase, Cubit, and GetIt for dependency injection. This app features several cool functionalities, including user authentication, real-time messaging, online status, last seen, and more!
-
 ## 💬 Key Features
 
 - **Real-Time Messaging**: Send & receive messages instantly!
