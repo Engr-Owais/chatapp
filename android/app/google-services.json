@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "538488316465",
+    "project_id": "chatter-1fe6c",
+    "storage_bucket": "chatter-1fe6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538488316465:android:1b4d982e6a3aa1b2fb6b10",
+        "android_client_info": {
+          "package_name": "com.example.messenger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qs5N1xsem_8zyW00FdNueIlcXNO8ZIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538488316465:android:8b5a47a8aa53514efb6b10",
+        "android_client_info": {
+          "package_name": "com.example.youtube_messenger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qs5N1xsem_8zyW00FdNueIlcXNO8ZIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
