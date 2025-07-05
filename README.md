@@ -1,4 +1,4 @@
-🔥 Create a Professional Chat App in Flutter - Step-by-Step Tutorial! 🔥
+🔥 Chat App in Flutter🔥
 
 
 <img src="https://github.com/user-attachments/assets/da30aa6f-d424-4157-b952-ab179cbaed16">
@@ -23,10 +23,3 @@ Welcome to the repository for the **Fully Functional Chat App in Flutter** tutor
 - **Clean Architecture**: Build apps that are easy to maintain and expand.
 - **Error Handling**: Make your app robust and user-friendly.
 - **Dependency Injection with GetIt**: Easily manage dependencies across your app and improve scalability.
-
-💡 What's Coming Next:
-👉 Voice/Video Calling
-👉 File Sharing (Images, Videos, Audios)
-👉 Advanced Features for an even better chat experience.
-
-By the end of this video, you'll have a feature-packed chat app ready for production, plus the knowledge to build scalable apps using the best Flutter practices! 💻
